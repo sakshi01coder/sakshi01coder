@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sakshi Singh and I'm a passionate Developer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Kumari Sakshi and I'm a passionate Developer from India</h2>
 
 ###
 
