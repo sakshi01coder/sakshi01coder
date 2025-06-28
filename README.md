@@ -47,8 +47,6 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/sakshi01coder/sakshi01coder/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ### 🌟 About Me
@@ -57,5 +55,3 @@
 - 🤝 Looking to collaborate on Data Analytics & AI projects  
 - 🎯 Focused on building beautiful, meaningful, and useful products  
 - 📫 Reach me at: **sakshi01dolly@gmail.com**
-
----
